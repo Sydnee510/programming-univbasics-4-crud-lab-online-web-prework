@@ -7,11 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- speech = ["wow","I","am","really","learning"]
- 
- speech.push("arrays!")
- 
- p speech
+  array = ["wow", "I", "am", "really", "learning"]
+ array.push("arrays!")
+ p array
  #=> ["wow","I","am","really","learning","arrays!"]
 end
 
