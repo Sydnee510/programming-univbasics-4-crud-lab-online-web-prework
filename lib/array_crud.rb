@@ -6,8 +6,7 @@ def create_an_array
  ["cheese","mayo","mustard","greens"]
 end
 
-def add_element_to_end_of_array(array, element)
- ["wow", "I", "am", "really", "learning","arrays!"]
+def add_element_to_end_of_array(array, element) add_element_to_end_of_array["wow", "I", "am", "really", "learning","arrays!"]
 end
 
 def add_element_to_start_of_array(array, element)
