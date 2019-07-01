@@ -7,9 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- mixed = ["wow", "I", "am", "really", "learning"]
- mixed.push("arrays!")
- p mixed
+ speech = ["wow", "I", "am", "really", "learning"]
+ speech.push("arrays!")
+ p speech
  #=> ["wow", "I", "am", "really", "learning", "arrays!"]
 end
 
